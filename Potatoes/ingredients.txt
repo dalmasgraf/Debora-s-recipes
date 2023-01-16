@@ -5,4 +5,3 @@ salt
 pepper
 nutmeg
 bread
-water
